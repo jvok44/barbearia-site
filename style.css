@@ -7,7 +7,7 @@ box-sizing:border-box;
 body{
 font-family:'Poppins',sans-serif;
 background:#111;
-color:rgb(0, 0, 0);
+color:rgb(255, 255, 255);
 }
 
 .container{
@@ -36,14 +36,14 @@ height:150px;
 
 
 nav a{
-color:white;
+color:rgb(102, 96, 96);
 margin-left:20px;
 text-decoration:none;
 font-weight:500;
 }
 
 nav a:hover{
-color:#c59d5f;
+color:#6e6b65;
 }
 
 
