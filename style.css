@@ -20,7 +20,7 @@ padding:40px 20px;
 
 header{
 background:black;
-border-bottom:2px solid #c59d5f;
+border-bottom:2px solid #807b74;
 }
 
 .nav{
@@ -36,7 +36,7 @@ height:150px;
 
 
 nav a{
-color:rgb(102, 96, 96);
+color:rgb(255, 255, 255);
 margin-left:20px;
 text-decoration:none;
 font-weight:500;
